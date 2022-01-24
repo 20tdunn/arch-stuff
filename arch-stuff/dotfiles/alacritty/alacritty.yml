@@ -47,12 +47,12 @@ colors:
 
 font:
   normal:
-    family: Inconsolata
+    family: Menlo
     style: Regular
   bold:
-    family: Inconsolata
+    family: Menlo
     style: Bold
   italic:
-    family: Inconsolata
+    family: Menlo
     style: Italic
   size: 18
